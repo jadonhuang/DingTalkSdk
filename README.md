@@ -3,9 +3,7 @@
 只编写了getaccesstoken和getuserinfo两个接口类，其他的请求类，请按照文档自行编写，编写相应的Request和Response类即可。
 
   
-   public class AccessTokenRequest : IDingTalkRequest<AccessTokenResponse>
-    {
-        public string AppKey { get; set; }
+   public class AccessTokenRequest : IDingTalkRequest<AccessTokenResponse>{  public string AppKey { get; set; }
 
         public string AppSecret { get; set; }
 
