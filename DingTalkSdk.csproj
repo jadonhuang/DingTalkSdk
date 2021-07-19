@@ -4,6 +4,10 @@
 		<TargetFrameworks>net452;net461;netcoreapp2.1;netcoreapp3.1;net5.0</TargetFrameworks>
 		<Authors>jadon</Authors>
 		<Description>专有钉钉Sdk</Description>
+		<RepositoryUrl>https://github.com/jadonhuang/DingTalkSdk.git</RepositoryUrl>
+		<RepositoryType>github</RepositoryType>
+		<PackageId>DingTalkSdk.ZW</PackageId>
+		<PackageProjectUrl>https://github.com/jadonhuang/DingTalkSdk</PackageProjectUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
